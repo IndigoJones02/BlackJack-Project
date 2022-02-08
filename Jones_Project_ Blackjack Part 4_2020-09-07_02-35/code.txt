@@ -1,0 +1,144 @@
+1. Repeated code:
+r = randint(1, 13)
+
+Function name:
+card1 
+
+2. Repeated code:
+elif r == 9:
+  n = int(9)
+elif r == 3:
+  n = int(3)
+elif r == 4:
+  n = int(4)
+elif r == 5:
+  n = int(5)
+elif r == 7:
+  n = int(7)
+elif r == 8:
+  n = int(8)
+elif r == 2:
+  n = int(2)
+elif r == 10:
+  n = int(10)
+elif r == 6:
+  n = int(6)
+  
+Function name:
+card1_drawn
+
+3. Repeated code:
+n = 'Queen
+n = 'King'
+n = 'Ace'
+
+Function name:
+card_name
+
+4. Repeated code:
+elif r = 13:
+  v1 = 10
+if r == 12:
+  v1 = 10
+elif r == 11:
+  v1 = 10
+
+Funtion name:
+card1_value
+
+5. Repeated code:
+r = randint(1, 13)
+
+Function name:
+card2
+
+6. Repeated code:
+eelif r == 9:
+  n = int(9)
+elif r == 3:
+  n = int(3)
+elif r == 4:
+  n = int(4)
+elif r == 5:
+  n = int(5)
+elif r == 7:
+  n = int(7)
+elif r == 8:
+  n = int(8)
+elif r == 2:
+  n = int(2)
+elif r == 10:
+  n = int(10)
+elif r == 6:
+  n = int(6)
+ 
+Function name:
+card2_drawn
+
+7. Repeated code:
+  if r == 12:   
+    v1 = 10
+  elif r == 11:
+    v1 = 10
+  elif r = 13:
+    v1 = 10
+    
+Function name:
+card2_value
+
+8. Repeated code:
+  r = randint(1, 13)
+
+Function name:
+card_drawing
+
+9. Repeated code:
+elif r == 9:
+  n = int(9)
+elif r == 3:
+  n = int(3)
+elif r == 4:
+  n = int(4)
+elif r == 5:
+  n = int(5)
+elif r == 7:
+  n = int(7)
+elif r == 8:
+  n = int(8)
+elif r == 2:
+  n = int(2)
+elif r == 10:
+  n = int(10)
+elif r == 6:
+  n = int(6)
+ 
+ Function name:
+ drawn_cards
+  
+10. Repeated code:
+ print('Final hand: ' + str(u) + '.')
+ 
+Function name:
+final_hand
+
+11. Repeated code:
+elif (user_hand==21 and dealer_hand==21):
+elif (user_hand<21 and dealer_hand<21 and user_hand==dealer_hand):
+elif (user_hand>=21 and dealer_hand>=21):
+
+Function name:
+players_tied
+
+
+
+
+
+
+
+
+
+
+
+
+
+
